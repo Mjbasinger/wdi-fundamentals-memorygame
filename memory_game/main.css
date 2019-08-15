@@ -1,0 +1,35 @@
+main.css	
+
+body {
+	text-align: center;
+}
+header {
+	background-color: #F15B31;
+	font-color: #FFFFFF;
+	padding: 30px 20px;
+}
+h1 {
+	font-family: raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 400px;
+	font-size: 45px;
+}
+h2 {
+	
+	font-family: raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600px;
+	font-size: 20px;
+}
+p {
+	
+	font-family: "droid serif";
+	color: #0D2C40;
+	font-size: 18px;
+	font-height: 26px;
+}
+img{
+	
+}
